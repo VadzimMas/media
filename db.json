@@ -1,0 +1,243 @@
+{
+  "users": [
+    {
+      "name": "Samuel Rempel",
+      "id": 1
+    },
+    {
+      "name": "Gwendolyn Mraz",
+      "id": 2
+    },
+    {
+      "name": "Matthew Jones",
+      "id": 3
+    },
+    {
+      "name": "Gregg Batz",
+      "id": 4
+    },
+    {
+      "name": "Ms. Marjorie Heaney",
+      "id": 43
+    },
+    {
+      "name": "Eileen Jacobs",
+      "id": 44
+    },
+    {
+      "name": "Cedric Schinner",
+      "id": 45
+    },
+    {
+      "name": "Salvatore Crist",
+      "id": 46
+    },
+    {
+      "name": "Willard Kunde II",
+      "id": 47
+    },
+    {
+      "name": "Ms. Earnest Pfannerstill",
+      "id": 48
+    },
+    {
+      "name": "Lonnie Rogahn",
+      "id": 49
+    },
+    {
+      "name": "Wilma Howe",
+      "id": 50
+    },
+    {
+      "name": "Kevin DuBuque",
+      "id": 51
+    },
+    {
+      "name": "Sara Okuneva",
+      "id": 52
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Rustic Rubber Chips",
+      "id": 34322
+    },
+    {
+      "userId": 2,
+      "title": "Licensed Concrete Cheese",
+      "id": 34323
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Granite Pizza",
+      "id": 34324
+    },
+    {
+      "userId": 4,
+      "title": "Modern Metal Ball",
+      "id": 34325
+    },
+    {
+      "userId": 4,
+      "title": "Tasty Wooden Pizza",
+      "id": 34326
+    },
+    {
+      "userId": 2,
+      "title": "Refined Cotton Gloves",
+      "id": 34327
+    },
+    {
+      "userId": 43,
+      "title": "Awesome Bronze Chicken",
+      "id": 34328
+    },
+    {
+      "userId": 43,
+      "title": "Gorgeous Metal Salad",
+      "id": 34329
+    },
+    {
+      "userId": 44,
+      "title": "Awesome Plastic Shirt",
+      "id": 34330
+    },
+    {
+      "userId": 44,
+      "title": "Oriental Plastic Tuna",
+      "id": 34331
+    },
+    {
+      "userId": 44,
+      "title": "Electronic Cotton Car",
+      "id": 34332
+    },
+    {
+      "userId": 44,
+      "title": "Practical Concrete Mouse",
+      "id": 34333
+    },
+    {
+      "userId": 44,
+      "title": "Awesome Steel Chair",
+      "id": 34334
+    },
+    {
+      "userId": 2,
+      "title": "Generic Soft Tuna",
+      "id": 34335
+    },
+    {
+      "userId": 1,
+      "title": "Elegant Frozen Cheese",
+      "id": 34336
+    },
+    {
+      "userId": 2,
+      "title": "Refined Cotton Chicken",
+      "id": 34337
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Granite Towels",
+      "id": 34338
+    },
+    {
+      "userId": 3,
+      "title": "Modern Cotton Keyboard",
+      "id": 34339
+    },
+    {
+      "userId": 4,
+      "title": "Gorgeous Granite Tuna",
+      "id": 34340
+    },
+    {
+      "userId": 43,
+      "title": "Handcrafted Fresh Hat",
+      "id": 34341
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Frozen Pants",
+      "id": 34342
+    },
+    {
+      "userId": 1,
+      "title": "Gorgeous Plastic Salad",
+      "id": 34343
+    },
+    {
+      "userId": 2,
+      "title": "Bespoke Cotton Shirt",
+      "id": 34344
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Plastic Pizza",
+      "id": 34345
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Soft Bacon",
+      "id": 34346
+    },
+    {
+      "userId": 1,
+      "title": "Refined Bronze Bacon",
+      "id": 34347
+    },
+    {
+      "userId": 1,
+      "title": "Incredible Fresh Keyboard",
+      "id": 34348
+    },
+    {
+      "userId": 3,
+      "title": "Luxurious Fresh Pizza",
+      "id": 34349
+    },
+    {
+      "userId": 2,
+      "title": "Fantastic Plastic Mouse",
+      "id": 34350
+    },
+    {
+      "userId": 2,
+      "title": "Generic Cotton Bacon",
+      "id": 34351
+    },
+    {
+      "userId": 2,
+      "title": "Unbranded Plastic Shirt",
+      "id": 34352
+    },
+    {
+      "userId": 1,
+      "title": "Recycled Steel Chicken",
+      "id": 34353
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Cotton Mouse",
+      "id": 34354
+    },
+    {
+      "userId": 1,
+      "title": "Fantastic Plastic Mouse",
+      "id": 34355
+    },
+    {
+      "userId": 3,
+      "title": "Small Frozen Bacon",
+      "id": 34356
+    },
+    {
+      "userId": 2,
+      "title": "Luxurious Fresh Gloves",
+      "id": 34357
+    }
+  ],
+  "photos": []
+}
