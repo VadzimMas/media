@@ -6,9 +6,9 @@ function ExpandablePanel({header, children}) {
   const [expanded, setExpended] = useState(false)
 
   return (
-    <div className="mb-2 border rounded">
+    <div className="mb-2 border rounded bg-gray-200 border-2 border-gray-500">
       <div className="flex p-2 justify-between items-center cursor-pointer">
-        <div className="flex flex-row items-center justify-between">
+        <div className="flex flex-row items-center justify-between ">
           {header}
         </div>
         <div onClick={() => setExpended(!expanded)}>

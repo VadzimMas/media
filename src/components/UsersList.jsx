@@ -29,11 +29,14 @@ function UsersList() {
   return (
     <div>
       <div className="flex flex-row justify-between items-center m-3">
-        <h1 className="m-2 text-xl">Users</h1>
+        <h1 className="m-2 text-3xl font-bold ">Users</h1>
         {createUserError && <span>Error creating user...</span>}
         <Button
           loading={isCreateUserLoading}
-          onClick={() => doCreateUser()}>
+          onClick={() => doCreateUser()}
+          primary
+          className=" mr-3 border-2 border-gray-500 rounded"
+        >
           <span>+ Add User</span>
         </Button>
       </div>
